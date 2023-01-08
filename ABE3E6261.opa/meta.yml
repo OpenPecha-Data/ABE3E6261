@@ -1,0 +1,28 @@
+id: ABE3E6261
+title: The Prayer that Swiftly Fulfils All Wishes (Sampa Nyur Drupma)
+type: translation
+pechas:
+- IEF43FE70
+- IF64B12B4
+- IDB8CD92B
+- IE718380D
+- IE5ED793D
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:41:51.035687
+  last_modified_at: 2023-01-04 12:41:51.035704
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IEF43FE70/D73F: 98AA
+  IF64B12B4/68B8: 98AA
+  IDB8CD92B/BDFB: 98AA
+  IE718380D/7D16: 98AA
+  IE5ED793D/A8A3: 98AA
